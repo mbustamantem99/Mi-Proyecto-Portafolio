@@ -1,0 +1,20 @@
+/* style.css */
+
+#cabecera{
+    background-color: aquamarine; /* Color de fondo */
+    padding: 20px; /* Espacio entre el borde y el contenido */
+
+}
+
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+}
+
+
+/* Estilos para pantallas pequeñas */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 1.5rem;
+    }
+}
